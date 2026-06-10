@@ -1,0 +1,8 @@
+# Solana Treasury Wallet (bu cüzdana fee'ler gelir)
+TREASURY_WALLET=YOUR_SOLANA_WALLET_ADDRESS_HERE
+
+# pump.fun WCUP token adresi (oluşturulduktan sonra ekle)
+WCUP_TOKEN=
+
+# Port (Railway otomatik ayarlar)
+PORT=3001
